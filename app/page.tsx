@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>
-      Hey This is clerk auth 
+    <div className="px-6">
+      HomePage
     </div>
   );
 }
